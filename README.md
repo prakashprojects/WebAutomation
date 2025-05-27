@@ -4,11 +4,11 @@
 This project uses the RobotFramework and Selenium Library to automate a [website](https://magento.softwaretestingboard.com/). The Page Object Model, or POM, has also been used here.
 
 ### [Test Cases](https://github.com/md-mostafa/WebAutomationWithRobotFramework/tree/main/TestRunner)
-1. [Signup](https://github.com/md-mostafa/WebAutomationWithRobotFramework/blob/main/TestRunner/1_NewUser_Runner.robot)
-2. [Login](https://github.com/md-mostafa/WebAutomationWithRobotFramework/blob/main/TestRunner/2_SignIn_Runner.robot)
-3. [Search](https://github.com/md-mostafa/WebAutomationWithRobotFramework/blob/main/TestRunner/3_Search_Runner.robot)
-4. [Add to cart](https://github.com/md-mostafa/WebAutomationWithRobotFramework/blob/main/TestRunner/4_AddToTheCart_Runner.robot)
-5. [Checkout](https://github.com/md-mostafa/WebAutomationWithRobotFramework/blob/main/TestRunner/5_Checkout_Runner.robot)
+1. [Signup](https://github.com/prakashprojects/WebAutomation/blob/main/TestRunner/1_NewUser_Runner.robot)
+2. [Login](https://github.com/prakashprojects/WebAutomation/blob/main/TestRunner/2_SignIn_Runner.robot)
+3. [Search](https://github.com/prakashprojects/WebAutomation/blob/main/TestRunner/3_Search_Runner.robot)
+4. [Add to cart](https://github.com/prakashprojects/WebAutomation/blob/main/TestRunner/4_AddToTheCart_Runner.robot)
+5. [Checkout](https://github.com/prakashprojects/WebAutomation/blob/main/TestRunner/5_Checkout_Runner.robot)
 
 
 ### Prerequisite
@@ -32,5 +32,3 @@ robot .
 1. [log.html](GeneratedReport/log.html)
 2. [report.html](GeneratedReport/report.html)
 
-### Feedback
-If you have any feedback, please reach out to me at md.mostafa.akash@gmail.com
